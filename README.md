@@ -1,7 +1,8 @@
-#Hola Bienvenido
-###Soy desarrollador web Front-end
+## Hola Bienvenido
 ------------
-###### Tecnologias que uso:
+### Soy desarrollador web Front-end
+------------
+##### Tecnologias que uso:
 ------------
 - **HTML**
 - **CSS**
